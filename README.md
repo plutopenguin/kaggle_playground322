@@ -1,4 +1,4 @@
-# Three models predict horse survival
+# Predicting horse survival with decision trees and random forests
 This is a fairly simple Jupyter Notebook submission for a Kaggle Playground Series competition.
 ## Goal
 Given various medical indicators, predict the health outcomes of horses.
